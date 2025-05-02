@@ -14,5 +14,9 @@ Key components of LangChain include:
 - Tools: Integrations with external services like search engines or databases.
 - Retrieval-Augmented Generation (RAG): Combining LLMs with external knowledge bases for enhanced responses.
 
-## Stack required
+## Environment set-up
+
+In order to run the examples, You will have to install the following dependencies:
+- [Ollama](https://ollama.com/)
+- 
 
